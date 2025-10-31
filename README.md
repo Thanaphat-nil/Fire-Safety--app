@@ -1,2 +1,3 @@
-# Fire-Safety--app
+.
+.# Fire-Safety--app
 Fire Safety Checklist System
